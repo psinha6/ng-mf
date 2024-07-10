@@ -2,6 +2,9 @@
   "recommendations": [
     "nrwl.angular-console",
     "esbenp.prettier-vscode",
-    "firsttris.vscode-jest-runner"
+    "firsttris.vscode-jest-runner",
+    "dbaeumer.vscode-eslint",
+    "pkief.material-icon-theme",
+    "angular.ng-template"
   ]
 }
